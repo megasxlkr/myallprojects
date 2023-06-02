@@ -1,0 +1,58 @@
+#plbg{
+	position:absolute;
+	width:99%;
+	height:99%;
+	left:0;
+	top:0;
+	background:#000;
+	opacity:.6;
+	filter:alpha(opacity=60);
+	-moz-opacity:.6;
+	-khtml-opacity:.6;
+	z-index:199;
+	display:none;
+}
+#pl{
+	width:99%;
+	height:99%;
+	top:0;
+	left:0;
+	position:absolute;
+	z-index:399;
+	display:none;
+	text-align:center;
+}
+#plc, #plp{
+margin:80px auto 0pt;
+position:relative;
+background-color:#FFFFFF;
+border:1px solid #999999;
+padding:10px;
+text-align:left;
+}
+.edBut {
+background-color:#f00;
+color:#fff;
+cursor:pointer;
+font: bold 8px/10px;
+position:absolute;
+text-align:center;
+width:10px;
+z-index:99999;
+}
+.editButtonz {
+padding:12px 6px 6px;
+width:80px;
+height:80px;
+position:absolute;
+line-height:12px;
+background:#efefef;
+cursor:pointer;
+border:1px solid #666;
+color:#000;
+font-size:9px;
+text-align:left;
+z-index:999;
+}
+form { margin-bottom: 0px;}
+higlight { background-color:#FF9900; color:#FFFFFF;}

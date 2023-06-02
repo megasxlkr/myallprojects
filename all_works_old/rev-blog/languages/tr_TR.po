@@ -1,0 +1,486 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Revenue 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-01-03 23:44+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-03-11 13:34+0300\n"
+"Language-Team: HappyThemes <support@happythemes.com>\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr "404 Hatası - Sayfa Bulunamadı"
+
+#: 404.php:21
+msgid ""
+"Sorry, but it looks like nothing was found at this location. You may try one "
+"of the links below or do a search."
+msgstr ""
+"Üzgünüm, ama bu yerde hiçbir şey bulunamadı gibi görünüyor. Aşağıdaki "
+"bağlantılardan birini deneyebilir veya arama yapabilirsiniz."
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr "En Çok Kullanılan Kategoriler"
+
+#: admin/customizer-options.php:38
+msgid "Theme Settings"
+msgstr "Tema Ayarları"
+
+#: admin/customizer-options.php:44
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/customizer-options.php:52
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/customizer-options.php:60
+msgid "Site Layout"
+msgstr "Site düzeni"
+
+#: admin/customizer-options.php:69
+msgid "Display header search form"
+msgstr "Üstbilgi arama formunu görüntüle"
+
+#: admin/customizer-options.php:77
+msgid "Display featured content on homepage"
+msgstr "Ana sayfada Slayta Ekle"
+
+#: admin/customizer-options.php:85
+msgid "Number of words to show on excerpt"
+msgstr "Alıntıda göstermek için sözcük sayısı"
+
+#: admin/customizer-options.php:93
+msgid "Display featured image on single posts"
+msgstr "Tekil sayfada nitelikli resim görüntülensin"
+
+#: admin/customizer-options.php:101
+msgid "Display footer widgets"
+msgstr "Altbilgi widget 'ları görüntüle"
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr "Standart Fontlar"
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr "Google Yazı Tipleri"
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr "Hepsi"
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr "Kiril"
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr "Genişletilmiş Kiril"
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr "Yunan"
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr "Genişletilmiş Yunanca"
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr "Khmer"
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr "Latin"
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr "Latin Genişletilmiş"
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: category.php:18
+msgid "All posts in"
+msgstr "Tüm yazılar"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Yorumu incele"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Yorumlar kapalıdır."
+
+#: footer.php:59
+msgid "Theme by"
+msgstr "Yapımcı"
+
+#: header.php:163
+msgid "Add menu for location: Primary Menu"
+msgstr "Bir Menü Ekleyin"
+
+#: header.php:182
+msgid "Search"
+msgstr "Ara"
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri yükleyin"
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "ZORUNLU EKLENTİLER"
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Yükleniyor: %s"
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Eklenti Güncelleniyor: %s"
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'sında bir sorun oluştu."
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklentilere Dön Installer'a Dön"
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Gösterge Tablosuna Geri Dön"
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiçbir işlem yapılmadı. %1$s eklentisi zaten etkin."
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Eklenti etkinleştirilmedi. Bu tema için %s daha yüksek bir sürümü gerekiyor. "
+"Lütfen eklentiyi güncelleyin."
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi. %1$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi reddet"
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Yüklemek, güncellemek veya etkinleştirmek için gereken bir veya daha fazla "
+"gerekli veya önerilen eklenti vardır."
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisiyle iletişime geçin."
+
+#: inc/classes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr "Gerekli"
+
+#: inc/classes/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr "Tavsiye edilen"
+
+#: inc/classes/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr "WordPress Deposu"
+
+#: inc/classes/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: inc/classes/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr "Ön Paketlenmiş"
+
+#: inc/classes/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr "Yüklü değil"
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr "Yüklü, ancak Aktifleştirilmemiş"
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/classes/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr "Gerekli Güncelleme Kullanılmıyor"
+
+#: inc/classes/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr "Güncelleme Gerektirir"
+
+#: inc/classes/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr "Güncelleme önerilir"
+
+#: inc/classes/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr "Kurulu sürümü:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr "Minimum gerekli sürüm:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr "Mevcut sürüm:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr "Tip"
+
+#: inc/classes/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr "Versiyon"
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr "Durum"
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr "Yükle %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr "Güncelle %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr "Etkinleştir %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/classes/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/classes/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Kurulacak herhangi bir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: inc/classes/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenecek hiçbir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: inc/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu anda kurulacak herhangi bir eklenti yok."
+
+#: inc/classes/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu anda güncellenecek hiçbir eklenti yok."
+
+#: inc/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: inc/classes/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Güncelleniyor %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Yüklenirken bir hata oluştu %1$s: <strong>%2$s</strong>."
+
+#: inc/classes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem bazı konut sunucuları "
+"üzerinde biraz zaman alabilir, bu yüzden lütfen sabırlı olun."
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s kuruldu ve başarıyla etkinleştirildi."
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulumlar ve etkinleştirmeler tamamlandı."
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklentiyi Kurma ve Etkinleştirme %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Kurulum işlemi başlıyor. Bu işlem bazı konut sunucuları üzerinde biraz zaman "
+"alabilir, bu yüzden lütfen sabırlı olun."
+
+#: inc/classes/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#: inc/classes/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Yükleme %1$s (%2$d/%3$d)"
+
+#: inc/template-tags.php:23
+msgid "Views"
+msgstr "Görüntülenme"
+
+#: inc/template-tags.php:115
+msgid "Featured this post on homepage"
+msgstr "Ana sayfada öne çıkar"
+
+#: inc/template-tags.php:180
+#, php-format
+msgid "View all posts in %s"
+msgstr "Tüm yazılar %s"
+
+#: index.php:65
+msgid "Continue Reading &raquo;"
+msgstr "Devamını Oku &raquo;"
+
+#: sidebar.php:16
+msgid "There is no content here"
+msgstr "Burada içerik yok"
+
+#: sidebar.php:17
+msgid "Please put widgets to the <strong>Sidebar</strong>"
+msgstr "Lütfen birşeyler ekleyin <strong> Sidebar </strong>"
+
+#: sidebar.php:18
+msgid "Okay, I'm doing now &raquo;"
+msgstr "Tamam, şimdi yapıyorum &raquo;"
+
+#: template-parts/content-list.php:25
+msgid "Read more &raquo;"
+msgstr "Detaylar &raquo;"
+
+#: template-parts/content-none.php:14
+msgid "Nothing found"
+msgstr "Bir şey bulunamadı"
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"İlk gönderinizi yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan "
+"başlayın</a>."
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz, ancak arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı "
+"anahtar kelimelerle tekrar deneyin."
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Ne aradığınızı bulamıyoruz gibi görünüyor. Belki de arama yapmak yardımcı "
+"olabilir."
+
+#: template-parts/content-single.php:43
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Okumaya devam et %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/entry-meta.php:5
+msgid "Leave a Comment"
+msgstr "Bir yorum bırak"
+
+#: template-parts/entry-meta.php:5
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: template-parts/entry-meta.php:5
+msgid "comments off"
+msgstr "yorumlar kapalı"
+
+#: template-parts/pagination.php:7
+msgid "Previous"
+msgstr "Önceki"
+
+#: template-parts/pagination.php:7
+msgid "Next"
+msgstr "Sonraki"

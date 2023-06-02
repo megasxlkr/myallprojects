@@ -1,0 +1,14 @@
+Bu dosya paketi wooticaret temasına full olarak bütün ayarları ile kolayca erişebilmeniz amacıyla hazırlanmıştır.
+
+Kurulum Çok Basittir;
+
+-Kuruluma başlamadan önce yeni bir veritabanı, kullanıcı ve şifresini boş olarak ayarlayınız.
+-Web sitenizin ana klasöründeki herşeyi siliniz (wordpress dosyaları dahil)
+-Zipli dosyayı ve installer.php dosyasını ana klasöre atınız.
+
+siteadresiniz.com/installer.php adresini tarayıcıdan açınız ve kurulumu ilerletiniz.
+Veritabanı bilgilerinizi girdikten sonraki adımlarda wordpress kullanıcı adı ve şifresini opsiyonel olarak isteyecektir doldurmanız sizin faydanıza olacaktır.
+
+Soru ve Sorunlarınız için www.wordpresstema.com adresini ziyaret edebilirisiniz.
+
+
